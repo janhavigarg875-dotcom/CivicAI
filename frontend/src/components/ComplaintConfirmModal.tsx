@@ -11,7 +11,7 @@ interface ComplaintConfirmModalProps {
 
 export function ComplaintConfirmModal({
   draft,
-  category: _category,
+  category,
   scope,
   onConfirm,
   onCancel,
