@@ -1,6 +1,6 @@
 # CivicAI — AI Sustainability Assistant
 
-CivicAI is an AI-powered sustainability assistant built for campus students and city/community citizens. It helps users navigate Water, Air, and Waste management issues by providing grounded guidance and — when a problem remains unresolved — facilitating a **simulated** complaint registration process. The system aligns with **SDG 11** (Sustainable Cities and Communities) as its primary goal, with supporting alignment to **SDG 6** (Clean Water and Sanitation), **SDG 12** (Responsible Consumption and Production), and **SDG 13** (Climate Action). All LLM interactions are powered by IBM watsonx.ai using the `ibm/granite-3-8b-instruct` model.
+CivicAI is an AI-powered sustainability assistant built for campus students and city/community citizens. It helps users navigate Water, Air, and Waste management issues by providing grounded guidance and — when a problem remains unresolved — facilitating a **simulated** complaint registration process. The system aligns with **SDG 11** (Sustainable Cities and Communities) as its primary goal, with supporting alignment to **SDG 6** (Clean Water and Sanitation), **SDG 12** (Responsible Consumption and Production), and **SDG 13** (Climate Action). All LLM interactions are powered by IBM watsonx.ai using the `ibm/granite-4-h-small` model.
 
 > **Responsible AI Notice:** Complaint submissions are simulated. No real authorities are contacted. The assistant is transparent about its AI identity at all times.
 
