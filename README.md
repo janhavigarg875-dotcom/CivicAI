@@ -111,7 +111,7 @@ The app will be available at `http://localhost:5173`.
 | `WATSONX_API_KEY` | Your IBM watsonx.ai API key |
 | `WATSONX_PROJECT_ID` | Your IBM watsonx.ai project ID |
 | `WATSONX_URL` | watsonx.ai endpoint (default: `https://us-south.ml.cloud.ibm.com`) |
-| `MODEL_ID` | LLM model ID (default: `ibm/granite-3-8b-instruct`) |
+| `MODEL_ID` | LLM model ID (default: `ibm/granite-4-h-small`) |
 
 ### Frontend (`frontend/.env`)
 
