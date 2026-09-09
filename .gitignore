@@ -1,0 +1,30 @@
+﻿# Node / Frontend
+node_modules/
+dist/
+.vite/
+frontend/.env
+
+# Python / Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg/
+.eggs/
+venv/
+.venv/
+env/
+.env
+*.db
+
+# Vector store index
+backend/knowledge_base/index/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
